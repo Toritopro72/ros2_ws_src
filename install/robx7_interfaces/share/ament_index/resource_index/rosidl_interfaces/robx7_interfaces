@@ -1,0 +1,6 @@
+msg/HardwareStatus.idl
+msg/HardwareStatus.msg
+srv/CheckSystem.idl
+srv/CheckSystem.srv
+srv/SumarDosFlotantes.idl
+srv/SumarDosFlotantes.srv

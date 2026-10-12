@@ -1,0 +1,13 @@
+{
+  "package_name": "robx7_interfaces",
+  "output_dir": "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_generator_type_description/robx7_interfaces",
+  "idl_tuples": [
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:msg/HardwareStatus.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/SumarDosFlotantes.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/CheckSystem.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

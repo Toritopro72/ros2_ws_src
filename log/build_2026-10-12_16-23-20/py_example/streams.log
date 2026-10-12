@@ -1,0 +1,37 @@
+[2.489s] Invoking command in '/home/toro/ros2_ws/src/ProgRob2026B/py_example': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/toro/ros2_ws/build/py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/py_example build --build-base /home/toro/ros2_ws/build/py_example/build install --record /home/toro/ros2_ws/build/py_example/install.log --install-scripts $base/lib/py_example --single-version-externally-managed install_data
+[2.747s] running egg_info
+[2.747s] creating ../../../build/py_example/py_example.egg-info
+[2.768s] writing ../../../build/py_example/py_example.egg-info/PKG-INFO
+[2.769s] writing dependency_links to ../../../build/py_example/py_example.egg-info/dependency_links.txt
+[2.769s] writing entry points to ../../../build/py_example/py_example.egg-info/entry_points.txt
+[2.769s] writing requirements to ../../../build/py_example/py_example.egg-info/requires.txt
+[2.769s] writing top-level names to ../../../build/py_example/py_example.egg-info/top_level.txt
+[2.770s] writing manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+[2.804s] reading manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+[2.806s] writing manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+[2.807s] running build
+[2.807s] running build_py
+[2.807s] creating /home/toro/ros2_ws/build/py_example/build
+[2.808s] creating /home/toro/ros2_ws/build/py_example/build/lib
+[2.808s] creating /home/toro/ros2_ws/build/py_example/build/lib/py_example
+[2.808s] copying py_example/__init__.py -> /home/toro/ros2_ws/build/py_example/build/lib/py_example
+[2.810s] copying py_example/test_node.py -> /home/toro/ros2_ws/build/py_example/build/lib/py_example
+[2.811s] running install
+[2.822s] running install_lib
+[2.844s] creating /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+[2.844s] copying /home/toro/ros2_ws/build/py_example/build/lib/py_example/__init__.py -> /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+[2.845s] copying /home/toro/ros2_ws/build/py_example/build/lib/py_example/test_node.py -> /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+[2.847s] byte-compiling /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example/__init__.py to __init__.cpython-312.pyc
+[2.848s] byte-compiling /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example/test_node.py to test_node.cpython-312.pyc
+[2.850s] running install_data
+[2.850s] creating /home/toro/ros2_ws/install/py_example/share/ament_index
+[2.850s] creating /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index
+[2.850s] creating /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index/packages
+[2.850s] copying resource/py_example -> /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index/packages
+[2.851s] copying package.xml -> /home/toro/ros2_ws/install/py_example/share/py_example
+[2.851s] running install_egg_info
+[2.872s] Copying ../../../build/py_example/py_example.egg-info to /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example-0.0.0-py3.12.egg-info
+[2.875s] running install_scripts
+[3.001s] Installing test_node script to /home/toro/ros2_ws/install/py_example/lib/py_example
+[3.001s] writing list of installed files to '/home/toro/ros2_ws/build/py_example/install.log'
+[3.048s] Invoked command in '/home/toro/ros2_ws/src/ProgRob2026B/py_example' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/toro/ros2_ws/build/py_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/py_example build --build-base /home/toro/ros2_ws/build/py_example/build install --record /home/toro/ros2_ws/build/py_example/install.log --install-scripts $base/lib/py_example --single-version-externally-managed install_data

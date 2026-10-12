@@ -1,0 +1,24 @@
+[ 75%] Built target cpp_subscriber
+[ 50%] [32mBuilding CXX object CMakeFiles/cpp_publisher.dir/src/cpp_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable cpp_publisher[0m
+[100%] Built target cpp_publisher
+-- Install configuration: ""
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_publisher
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_publisher" to ""
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_subscriber
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_subscriber" to ""
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+-- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml

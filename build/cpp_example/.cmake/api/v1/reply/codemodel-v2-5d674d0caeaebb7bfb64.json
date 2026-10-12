@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-397859b8da4ce4c4f967.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cpp_example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "client2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client2_cpp-3eb6c0450ac01254e421.json",
+					"name" : "client2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "client_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-client_cpp-de33b4e06f376e8bf465.json",
+					"name" : "client_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_example_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_example_uninstall-2b3619f7f74fbfa4cfda.json",
+					"name" : "cpp_example_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_client_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_client_cpp-6b9e50d95b46506df492.json",
+					"name" : "custom_client_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_publisher_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_publisher_cpp-2067a0bd0b6ccc559656.json",
+					"name" : "custom_publisher_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_server_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_server_cpp-9a933d18f4f6aaf4af2b.json",
+					"name" : "custom_server_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_subscriber_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_subscriber_cpp-d15076636c05b8e230ee.json",
+					"name" : "custom_subscriber_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_publisher_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_publisher_cpp-4ef42dc36f9dc8f71cf1.json",
+					"name" : "example_publisher_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_subscriber_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_subscriber_cpp-db865817992773e4f837.json",
+					"name" : "example_subscriber_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "number_publisher_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-number_publisher_cpp-3e174b2544d6bd670063.json",
+					"name" : "number_publisher_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "server_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-server_cpp-c26746674fcf9d16fc3b.json",
+					"name" : "server_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_node_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_node_cpp-fc56e84c406518d288c7.json",
+					"name" : "test_node_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-23f3253ad0a433784610.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/toro/ros2_ws/build/cpp_example",
+		"source" : "/home/toro/ros2_ws/src/ProgRob2026B/cpp_example"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

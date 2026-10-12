@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "robx7_interfaces/srv/CheckSystem_Response",
+      "fields": [
+        {
+          "name": "seguro",
+          "type": {
+            "type_id": 15,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "mensaje",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "robx7_interfaces/srv/CheckSystem_Response",
+      "hash_string": "RIHS01_fe6c02f6a143511ba7fbae21c5f160be48ecd1f687cd9474f973a9602f8a5165"
+    }
+  ]
+}

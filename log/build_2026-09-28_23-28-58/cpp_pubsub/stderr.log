@@ -1,0 +1,11 @@
+[01m[K/home/toro/ros2_ws/src/cpp_pubsub/src/cpp_publisher.cpp:9:17:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd_chrono_literals[m[K’ is not a namespace-name
+    9 | using namespace [01;31m[Kstd_chrono_literals[m[K;
+      |                 [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/toro/ros2_ws/src/cpp_pubsub/src/cpp_publisher.cpp:[m[K In constructor ‘[01m[KCppPublisher::[01;32m[KCppPublisher[m[K()[m[K’:
+[01m[K/home/toro/ros2_ws/src/cpp_pubsub/src/cpp_publisher.cpp:18:7:[m[K [01;31m[Kerror: [m[Kunable to find numeric literal operator ‘[01m[Koperator""ms[m[K’
+   18 |       [01;31m[K1000ms[m[K, std::bind(&CppPublisher::timer_callback, this));
+      |       [01;31m[K^~~~~~[m[K
+gmake[2]: *** [CMakeFiles/cpp_publisher.dir/build.make:76: CMakeFiles/cpp_publisher.dir/src/cpp_publisher.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/cpp_publisher.dir/all] Error 2
+gmake[1]: *** Se espera a que terminen otras tareas....
+gmake: *** [Makefile:146: all] Error 2

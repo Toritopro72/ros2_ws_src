@@ -1,0 +1,3 @@
+/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:msg/HardwareStatus.idl
+/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/SumarDosFlotantes.idl
+/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/CheckSystem.idl

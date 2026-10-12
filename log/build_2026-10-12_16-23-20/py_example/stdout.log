@@ -1,0 +1,35 @@
+running egg_info
+creating ../../../build/py_example/py_example.egg-info
+writing ../../../build/py_example/py_example.egg-info/PKG-INFO
+writing dependency_links to ../../../build/py_example/py_example.egg-info/dependency_links.txt
+writing entry points to ../../../build/py_example/py_example.egg-info/entry_points.txt
+writing requirements to ../../../build/py_example/py_example.egg-info/requires.txt
+writing top-level names to ../../../build/py_example/py_example.egg-info/top_level.txt
+writing manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+reading manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+writing manifest file '../../../build/py_example/py_example.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/toro/ros2_ws/build/py_example/build
+creating /home/toro/ros2_ws/build/py_example/build/lib
+creating /home/toro/ros2_ws/build/py_example/build/lib/py_example
+copying py_example/__init__.py -> /home/toro/ros2_ws/build/py_example/build/lib/py_example
+copying py_example/test_node.py -> /home/toro/ros2_ws/build/py_example/build/lib/py_example
+running install
+running install_lib
+creating /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+copying /home/toro/ros2_ws/build/py_example/build/lib/py_example/__init__.py -> /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+copying /home/toro/ros2_ws/build/py_example/build/lib/py_example/test_node.py -> /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example
+byte-compiling /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example/test_node.py to test_node.cpython-312.pyc
+running install_data
+creating /home/toro/ros2_ws/install/py_example/share/ament_index
+creating /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index
+creating /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index/packages
+copying resource/py_example -> /home/toro/ros2_ws/install/py_example/share/ament_index/resource_index/packages
+copying package.xml -> /home/toro/ros2_ws/install/py_example/share/py_example
+running install_egg_info
+Copying ../../../build/py_example/py_example.egg-info to /home/toro/ros2_ws/install/py_example/lib/python3.12/site-packages/py_example-0.0.0-py3.12.egg-info
+running install_scripts
+Installing test_node script to /home/toro/ros2_ws/install/py_example/lib/py_example
+writing list of installed files to '/home/toro/ros2_ws/build/py_example/install.log'

@@ -1,0 +1,29 @@
+{
+  "package_name": "robx7_interfaces",
+  "output_dir": "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_typesupport_cpp/robx7_interfaces",
+  "template_dir": "/opt/ros/jazzy/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:msg/HardwareStatus.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/SumarDosFlotantes.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces:srv/CheckSystem.idl"
+  ],
+  "ros_interface_dependencies": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs/msg/ServiceEventInfo.idl",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/jazzy/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/ros/jazzy/lib/python3.12/site-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/ros/jazzy/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/jazzy/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces/msg/HardwareStatus.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces/srv/SumarDosFlotantes.idl",
+    "/home/toro/ros2_ws/build/robx7_interfaces/rosidl_adapter/robx7_interfaces/srv/CheckSystem.idl",
+    "/opt/ros/jazzy/share/service_msgs/msg/ServiceEventInfo.idl",
+    "/opt/ros/jazzy/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/jazzy/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

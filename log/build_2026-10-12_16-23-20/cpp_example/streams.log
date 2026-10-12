@@ -1,0 +1,107 @@
+[0.026s] Invoking command in '/home/toro/ros2_ws/build/cpp_example': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/toro/ros2_ws/src/ProgRob2026B/cpp_example -DCMAKE_INSTALL_PREFIX=/home/toro/ros2_ws/install/cpp_example
+[0.107s] -- The C compiler identification is GNU 13.3.0
+[0.179s] -- The CXX compiler identification is GNU 13.3.0
+[0.205s] -- Detecting C compiler ABI info
+[0.380s] -- Detecting C compiler ABI info - done
+[0.390s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.391s] -- Detecting C compile features
+[0.391s] -- Detecting C compile features - done
+[0.411s] -- Detecting CXX compiler ABI info
+[0.591s] -- Detecting CXX compiler ABI info - done
+[0.599s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.600s] -- Detecting CXX compile features
+[0.600s] -- Detecting CXX compile features - done
+[0.606s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.780s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.932s] -- Found rclcpp: 28.1.21 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.990s] -- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.011s] -- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.029s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.049s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.201s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.218s] -- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.445s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.478s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.510s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.677s] -- Found std_msgs: 5.3.8 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.715s] -- Found example_interfaces: 0.12.1 (/opt/ros/jazzy/share/example_interfaces/cmake)
+[1.830s] -- Found robx7_interfaces: 0.0.0 (/home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake)
+[1.950s] -- Configuring done (1.9s)
+[1.986s] -- Generating done (0.0s)
+[2.002s] -- Build files have been written to: /home/toro/ros2_ws/build/cpp_example
+[2.025s] Invoked command in '/home/toro/ros2_ws/build/cpp_example' returned '0': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/toro/ros2_ws/src/ProgRob2026B/cpp_example -DCMAKE_INSTALL_PREFIX=/home/toro/ros2_ws/install/cpp_example
+[2.025s] Invoking command in '/home/toro/ros2_ws/build/cpp_example': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/toro/ros2_ws/build/cpp_example -- -j6 -l6
+[2.120s] [ 13%] [32mBuilding CXX object CMakeFiles/custom_publisher_cpp.dir/src/custom_publisher.cpp.o[0m
+[2.120s] [ 13%] [32mBuilding CXX object CMakeFiles/test_node_cpp.dir/src/test_node.cpp.o[0m
+[2.121s] [ 18%] [32mBuilding CXX object CMakeFiles/example_subscriber_cpp.dir/src/example_subscriber.cpp.o[0m
+[2.121s] [ 22%] [32mBuilding CXX object CMakeFiles/custom_subscriber_cpp.dir/src/custom_subscriber.cpp.o[0m
+[2.121s] [ 22%] [32mBuilding CXX object CMakeFiles/example_publisher_cpp.dir/src/example_publisher.cpp.o[0m
+[2.130s] [ 27%] [32mBuilding CXX object CMakeFiles/server_cpp.dir/src/example_service_server.cpp.o[0m
+[7.920s] [ 31%] [32m[1mLinking CXX executable test_node_cpp[0m
+[8.170s] [ 31%] Built target test_node_cpp
+[8.202s] [ 36%] [32mBuilding CXX object CMakeFiles/client_cpp.dir/src/example_service_client.cpp.o[0m
+[8.289s] [ 40%] [32m[1mLinking CXX executable server_cpp[0m
+[8.540s] [ 40%] Built target server_cpp
+[8.568s] [ 45%] [32mBuilding CXX object CMakeFiles/custom_server_cpp.dir/src/custom_service_server.cpp.o[0m
+[8.851s] [ 50%] [32m[1mLinking CXX executable custom_publisher_cpp[0m
+[8.851s] [ 54%] [32m[1mLinking CXX executable example_publisher_cpp[0m
+[8.935s] [ 54%] Built target custom_publisher_cpp
+[8.964s] [ 59%] [32mBuilding CXX object CMakeFiles/custom_client_cpp.dir/src/custom_service_client.cpp.o[0m
+[9.034s] [ 59%] Built target example_publisher_cpp
+[9.275s] [ 63%] [32mBuilding CXX object CMakeFiles/client2_cpp.dir/src/example_client.cpp.o[0m
+[11.840s] [ 68%] [32m[1mLinking CXX executable custom_subscriber_cpp[0m
+[11.851s] [ 72%] [32m[1mLinking CXX executable example_subscriber_cpp[0m
+[12.124s] [ 72%] Built target custom_subscriber_cpp
+[12.148s] [ 72%] Built target example_subscriber_cpp
+[12.156s] [ 77%] [32mBuilding CXX object CMakeFiles/number_publisher_cpp.dir/src/number_publisher.cpp.o[0m
+[12.229s] [ 81%] [32m[1mLinking CXX executable client_cpp[0m
+[12.391s] [ 81%] Built target client_cpp
+[12.510s] [ 86%] [32m[1mLinking CXX executable custom_server_cpp[0m
+[12.618s] [ 90%] [32m[1mLinking CXX executable custom_client_cpp[0m
+[12.674s] [ 90%] Built target custom_server_cpp
+[12.773s] [ 90%] Built target custom_client_cpp
+[12.846s] [ 95%] [32m[1mLinking CXX executable client2_cpp[0m
+[13.032s] [ 95%] Built target client2_cpp
+[15.895s] [100%] [32m[1mLinking CXX executable number_publisher_cpp[0m
+[16.063s] [100%] Built target number_publisher_cpp
+[16.094s] Invoked command in '/home/toro/ros2_ws/build/cpp_example' returned '0': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/toro/ros2_ws/build/cpp_example -- -j6 -l6
+[16.097s] Invoking command in '/home/toro/ros2_ws/build/cpp_example': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/toro/ros2_ws/build/cpp_example
+[16.112s] -- Install configuration: ""
+[16.112s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/test_node_cpp
+[16.113s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/test_node_cpp" to ""
+[16.113s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/example_publisher_cpp
+[16.117s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/example_publisher_cpp" to ""
+[16.117s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/example_subscriber_cpp
+[16.122s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/example_subscriber_cpp" to ""
+[16.122s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_publisher_cpp
+[16.124s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_publisher_cpp" to ""
+[16.124s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_subscriber_cpp
+[16.129s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_subscriber_cpp" to ""
+[16.129s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/server_cpp
+[16.131s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/server_cpp" to ""
+[16.131s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/client_cpp
+[16.132s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/client_cpp" to ""
+[16.132s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/client2_cpp
+[16.135s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/client2_cpp" to ""
+[16.136s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_client_cpp
+[16.137s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_client_cpp" to ""
+[16.137s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_server_cpp
+[16.139s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/custom_server_cpp" to ""
+[16.139s] -- Installing: /home/toro/ros2_ws/install/cpp_example/lib/cpp_example/number_publisher_cpp
+[16.142s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_example/lib/cpp_example/number_publisher_cpp" to ""
+[16.142s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/ament_index/resource_index/package_run_dependencies/cpp_example
+[16.142s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/ament_index/resource_index/parent_prefix_path/cpp_example
+[16.143s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/environment/ament_prefix_path.sh
+[16.143s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/environment/ament_prefix_path.dsv
+[16.143s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/environment/path.sh
+[16.144s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/environment/path.dsv
+[16.144s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/local_setup.bash
+[16.144s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/local_setup.sh
+[16.144s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/local_setup.zsh
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/local_setup.dsv
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/package.dsv
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/ament_index/resource_index/packages/cpp_example
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/cmake/cpp_exampleConfig.cmake
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/cmake/cpp_exampleConfig-version.cmake
+[16.145s] -- Installing: /home/toro/ros2_ws/install/cpp_example/share/cpp_example/package.xml
+[16.149s] Invoked command in '/home/toro/ros2_ws/build/cpp_example' returned '0': AMENT_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/toro/ros2_ws/install/robx7_interfaces:/home/toro/ros2_ws/install/cpp_pubsub:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/toro/ros2_ws/install/robx7_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/toro/ros2_ws/build/cpp_example

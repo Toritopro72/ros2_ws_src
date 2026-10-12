@@ -1,0 +1,17 @@
+/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_publisher
+/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_subscriber
+/home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+/home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+/home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+/home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml

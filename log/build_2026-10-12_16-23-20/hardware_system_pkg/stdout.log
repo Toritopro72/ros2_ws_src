@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/hardware_system_pkg/hardware_system_pkg.egg-info
+writing ../../build/hardware_system_pkg/hardware_system_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/hardware_system_pkg/hardware_system_pkg.egg-info/dependency_links.txt
+writing requirements to ../../build/hardware_system_pkg/hardware_system_pkg.egg-info/requires.txt
+writing top-level names to ../../build/hardware_system_pkg/hardware_system_pkg.egg-info/top_level.txt
+writing manifest file '../../build/hardware_system_pkg/hardware_system_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/hardware_system_pkg/hardware_system_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/hardware_system_pkg/hardware_system_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/toro/ros2_ws/build/hardware_system_pkg/build
+creating /home/toro/ros2_ws/build/hardware_system_pkg/build/lib
+creating /home/toro/ros2_ws/build/hardware_system_pkg/build/lib/hardware_system_pkg
+copying hardware_system_pkg/__init__.py -> /home/toro/ros2_ws/build/hardware_system_pkg/build/lib/hardware_system_pkg
+running install
+running install_lib
+creating /home/toro/ros2_ws/install/hardware_system_pkg/lib/python3.12/site-packages/hardware_system_pkg
+copying /home/toro/ros2_ws/build/hardware_system_pkg/build/lib/hardware_system_pkg/__init__.py -> /home/toro/ros2_ws/install/hardware_system_pkg/lib/python3.12/site-packages/hardware_system_pkg
+byte-compiling /home/toro/ros2_ws/install/hardware_system_pkg/lib/python3.12/site-packages/hardware_system_pkg/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/toro/ros2_ws/install/hardware_system_pkg/share/ament_index
+creating /home/toro/ros2_ws/install/hardware_system_pkg/share/ament_index/resource_index
+creating /home/toro/ros2_ws/install/hardware_system_pkg/share/ament_index/resource_index/packages
+copying resource/hardware_system_pkg -> /home/toro/ros2_ws/install/hardware_system_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/toro/ros2_ws/install/hardware_system_pkg/share/hardware_system_pkg
+running install_egg_info
+Copying ../../build/hardware_system_pkg/hardware_system_pkg.egg-info to /home/toro/ros2_ws/install/hardware_system_pkg/lib/python3.12/site-packages/hardware_system_pkg-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/toro/ros2_ws/build/hardware_system_pkg/install.log'

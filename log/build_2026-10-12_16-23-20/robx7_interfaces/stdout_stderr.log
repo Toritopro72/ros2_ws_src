@@ -1,0 +1,321 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rosidl_default_generators: 1.6.1 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_adapter: 4.6.9 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+-- Found ament_cmake_ros: 0.12.1 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+-- Found PythonExtra: /usr/bin/python3  
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (5.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/toro/ros2_ws/build/robx7_interfaces
+[  3%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[  3%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[  3%] Built target ament_cmake_python_copy_robx7_interfaces
+running egg_info
+creating robx7_interfaces.egg-info
+writing robx7_interfaces.egg-info/PKG-INFO
+writing dependency_links to robx7_interfaces.egg-info/dependency_links.txt
+writing top-level names to robx7_interfaces.egg-info/top_level.txt
+writing manifest file 'robx7_interfaces.egg-info/SOURCES.txt'
+[  3%] Built target robx7_interfaces__rosidl_generator_type_description
+[  5%] [34m[1mGenerating C code for ROS interfaces[0m
+[  7%] [34m[1mGenerating C++ code for ROS interfaces[0m
+reading manifest file 'robx7_interfaces.egg-info/SOURCES.txt'
+writing manifest file 'robx7_interfaces.egg-info/SOURCES.txt'
+[  7%] Built target robx7_interfaces__rs
+[  7%] Built target ament_cmake_python_build_robx7_interfaces_egg
+[  7%] Built target robx7_interfaces__cpp
+[ 10%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/hardware_status__type_support.c.o[0m
+[ 10%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/hardware_status__description.c.o[0m
+[ 12%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/custom_string__functions.c.o[0m
+[ 14%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/custom_string__type_support.c.o[0m
+[ 16%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/hardware_status__functions.c.o[0m
+[ 18%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/msg/detail/custom_string__description.c.o[0m
+[ 20%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/srv/detail/sumar_dos_flotantes__description.c.o[0m
+[ 21%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/srv/detail/sumar_dos_flotantes__functions.c.o[0m
+[ 23%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_c.dir/rosidl_generator_c/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.c.o[0m
+[ 25%] [32m[1mLinking C shared library librobx7_interfaces__rosidl_generator_c.so[0m
+[ 25%] Built target robx7_interfaces__rosidl_generator_c
+[ 30%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[ 30%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 30%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 34%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 36%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 36%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/robx7_interfaces/msg/hardware_status__type_support.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/robx7_interfaces/msg/hardware_status__type_support.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/robx7_interfaces/msg/custom_string__type_support.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/robx7_interfaces/msg/detail/hardware_status__type_support.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/robx7_interfaces/srv/sumar_dos_flotantes__type_support.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/robx7_interfaces/msg/detail/dds_fastrtps/hardware_status__type_support.cpp.o[0m
+[ 49%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robx7_interfaces/msg/detail/hardware_status__type_support.c.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robx7_interfaces/msg/detail/hardware_status__type_support_c.cpp.o[0m
+[ 52%] [32m[1mLinking CXX shared library librobx7_interfaces__rosidl_typesupport_c.so[0m
+[ 54%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robx7_interfaces/msg/detail/custom_string__type_support.c.o[0m
+[ 56%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.c.o[0m
+[ 58%] [32m[1mLinking C shared library librobx7_interfaces__rosidl_typesupport_introspection_c.so[0m
+[ 58%] Built target robx7_interfaces__rosidl_typesupport_introspection_c
+[ 58%] Built target robx7_interfaces__rosidl_typesupport_c
+[ 60%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robx7_interfaces/msg/detail/custom_string__type_support_c.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/robx7_interfaces/msg/custom_string__type_support.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/robx7_interfaces/msg/detail/custom_string__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/robx7_interfaces/msg/detail/dds_fastrtps/custom_string__type_support.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/robx7_interfaces/srv/sumar_dos_flotantes__type_support.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support_c.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/robx7_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/robx7_interfaces/srv/detail/dds_fastrtps/sumar_dos_flotantes__type_support.cpp.o[0m
+[ 74%] [32m[1mLinking CXX shared library librobx7_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[ 74%] Built target robx7_interfaces__rosidl_typesupport_introspection_cpp
+[ 76%] [32m[1mLinking CXX shared library librobx7_interfaces__rosidl_typesupport_cpp.so[0m
+[ 76%] Built target robx7_interfaces__rosidl_typesupport_cpp
+[ 78%] [32m[1mLinking CXX shared library librobx7_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[ 80%] [32m[1mLinking CXX shared library librobx7_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 80%] Built target robx7_interfaces__rosidl_typesupport_fastrtps_c
+[ 80%] Built target robx7_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 80%] Built target robx7_interfaces
+[ 81%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 81%] Built target robx7_interfaces__py
+[ 85%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_py.dir/rosidl_generator_py/robx7_interfaces/msg/_custom_string_s.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_py.dir/rosidl_generator_py/robx7_interfaces/msg/_hardware_status_s.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/robx7_interfaces__rosidl_generator_py.dir/rosidl_generator_py/robx7_interfaces/srv/_sumar_dos_flotantes_s.c.o[0m
+[ 89%] [32m[1mLinking C shared library librobx7_interfaces__rosidl_generator_py.so[0m
+[ 89%] Built target robx7_interfaces__rosidl_generator_py
+[ 92%] [32mBuilding C object CMakeFiles/robx7_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/robx7_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/robx7_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[ 98%] [32m[1mLinking C shared module rosidl_generator_py/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_c.so[0m
+[ 98%] [32m[1mLinking C shared module rosidl_generator_py/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[100%] [32m[1mLinking C shared module rosidl_generator_py/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[100%] Built target robx7_interfaces_s__rosidl_typesupport_fastrtps_c
+[100%] Built target robx7_interfaces_s__rosidl_typesupport_c
+[100%] Built target robx7_interfaces_s__rosidl_typesupport_introspection_c
+-- Install configuration: ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/ament_index/resource_index/rosidl_interfaces/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/HardwareStatus.json
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/CustomString.json
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/srv/SumarDosFlotantes.json
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__functions.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__functions.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__description.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__struct.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/sumar_dos_flotantes.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__description.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__functions.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__type_support.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__type_support.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__description.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__struct.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__functions.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__functions.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__struct.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__functions.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/hardware_status.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/custom_string.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/library_path.sh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/library_path.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_generator_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_generator_c.so" to ""
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__rosidl_typesupport_fastrtps_c.h
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__rosidl_typesupport_fastrtps_c.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__rosidl_typesupport_introspection_c.h
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__rosidl_typesupport_introspection_c.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__type_support.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__rosidl_typesupport_introspection_c.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_introspection_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_c.so" to ""
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/sumar_dos_flotantes.hpp
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__builder.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__struct.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__traits.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.hpp
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__type_support.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__builder.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__struct.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__builder.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__traits.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__traits.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__struct.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__type_support.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/custom_string.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/hardware_status.hpp
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/dds_fastrtps
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/dds_fastrtps
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__rosidl_typesupport_fastrtps_cpp.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__type_support.cpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/srv/detail/sumar_dos_flotantes__rosidl_typesupport_introspection_cpp.hpp
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg
+-- Up-to-date: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__type_support.cpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__type_support.cpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/custom_string__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/include/robx7_interfaces/robx7_interfaces/msg/detail/hardware_status__rosidl_typesupport_introspection_cpp.hpp
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_typesupport_cpp.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/pythonpath.sh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/pythonpath.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces-0.0.0-py3.12.egg-info
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv/__init__.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv/_sumar_dos_flotantes.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv/_sumar_dos_flotantes_s.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/__init__.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_c.so
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_c.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_custom_string.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/__init__.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_custom_string_s.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_hardware_status.py
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_hardware_status_s.c
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_introspection_c.so
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_fastrtps_c.so
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/_robx7_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+Listing '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/__init__.py'...
+Listing '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/__init__.py'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_custom_string.py'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/msg/_hardware_status.py'...
+Listing '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv/__init__.py'...
+Compiling '/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/srv/_sumar_dos_flotantes.py'...
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_fastrtps_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_fastrtps_c.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_introspection_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_c.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/python3.12/site-packages/robx7_interfaces/robx7_interfaces_s__rosidl_typesupport_c.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_generator_py.so
+-- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/robx7_interfaces/lib/librobx7_interfaces__rosidl_generator_py.so" to ""
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/ament_index/resource_index/rust_packages/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/build.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/Cargo.toml
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/srv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/srv/rmw.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/msg.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/msg/rmw.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/lib.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/rust/src/srv.rs
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/HardwareStatus.idl
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/CustomString.idl
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/srv/SumarDosFlotantes.idl
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/HardwareStatus.msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/msg/CustomString.msg
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/srv/SumarDosFlotantes.srv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/ament_index/resource_index/package_run_dependencies/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/ament_index/resource_index/parent_prefix_path/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/ament_prefix_path.sh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/ament_prefix_path.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/path.sh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/environment/path.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/local_setup.bash
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/local_setup.sh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/local_setup.zsh
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/local_setup.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/package.dsv
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/ament_index/resource_index/packages/robx7_interfaces
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_generator_cExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_cExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_generator_cppExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_generator_pyExport.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/export_robx7_interfaces__rosidl_generator_pyExport-noconfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/rosidl_cmake_aggregate_target-extras.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfacesConfig.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/cmake/robx7_interfacesConfig-version.cmake
+-- Installing: /home/toro/ros2_ws/install/robx7_interfaces/share/robx7_interfaces/package.xml

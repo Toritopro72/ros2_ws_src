@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f467c29e032cdfc0d467.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "robx7_interfaces__py",
+					"jsonFile" : "directory-robx7_interfaces__py-5715c9d80bdc33af91ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/toro/ros2_ws/build/robx7_interfaces/robx7_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "robx7_interfaces__rs",
+					"jsonFile" : "directory-robx7_interfaces__rs-4fcbe0d50309523e06b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/toro/ros2_ws/build/robx7_interfaces/robx7_interfaces__rs",
+					"targetIndexes" : 
+					[
+						14
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "robx7_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_robx7_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_robx7_interfaces_egg-d5b6aa5c4d15a6ad4be2.json",
+					"name" : "ament_cmake_python_build_robx7_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_robx7_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_robx7_interfaces-f5d99f3c940c294d8af3.json",
+					"name" : "ament_cmake_python_copy_robx7_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces-afd49826048130eb5215.json",
+					"name" : "robx7_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__cpp-d20a066f190f87ee3e77.json",
+					"name" : "robx7_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "robx7_interfaces__py::@1a24298e9ade489cd961",
+					"jsonFile" : "target-robx7_interfaces__py-a04dc277ce97819bd0a1.json",
+					"name" : "robx7_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_generator_c-303eb4934b21c64e248e.json",
+					"name" : "robx7_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_generator_py-d5e899b6ecf371545280.json",
+					"name" : "robx7_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_generator_type_description-5320036f10f91af36234.json",
+					"name" : "robx7_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_c-01272874580f96b0ba03.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_cpp-b6d10d031fa2f5d4f72b.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_fastrtps_c-b3e05dc292ca1e964b02.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_fastrtps_cpp-8eab01384a0d686c0ca0.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_introspection_c-db2f6e940ca30e7e72f6.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces__rosidl_typesupport_introspection_cpp-2d79880b2f20e3fec01e.json",
+					"name" : "robx7_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "robx7_interfaces__rs::@58e7d22b606a86e75e8a",
+					"jsonFile" : "target-robx7_interfaces__rs-7d3b89e3976782686b04.json",
+					"name" : "robx7_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces_s__rosidl_typesupport_c-4d480712175e2ef5ad66.json",
+					"name" : "robx7_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces_s__rosidl_typesupport_fastrtps_c-b7ee3adafb41ab247ca0.json",
+					"name" : "robx7_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces_s__rosidl_typesupport_introspection_c-7ead71936cd3af131a82.json",
+					"name" : "robx7_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robx7_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robx7_interfaces_uninstall-a7828d7342a19ec7e852.json",
+					"name" : "robx7_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-057cb968b8d02ed1e7b7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/toro/ros2_ws/build/robx7_interfaces",
+		"source" : "/home/toro/ros2_ws/src/ProgRob2026B/robx7_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

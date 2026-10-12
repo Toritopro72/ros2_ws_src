@@ -1,0 +1,4 @@
+[console_scripts]
+emulator_node = hardware_system_pkg.emulator_node:main
+monitor_node = hardware_system_pkg.monitor_node:main
+operator_node = hardware_system_pkg.operator_node:main

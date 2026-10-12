@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "robx7_interfaces__py",
+		"source" : "/home/toro/ros2_ws/build/robx7_interfaces/robx7_interfaces__py"
+	}
+}

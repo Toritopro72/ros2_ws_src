@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypackagename="package_format3.xsd"?>
+<package format="3">
+  <name>cpp_pubsub</name>
+  <version>0.0.0</version>
+  <description>Paquete PubSub C++</description>
+  <maintainer email="toro@todo.todo">toro</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

@@ -1,0 +1,28 @@
+[0.034s] Invoking command in '/home/toro/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toro/ros2_ws/build/cpp_pubsub -- -j6 -l6
+[0.148s] [ 75%] Built target cpp_subscriber
+[0.148s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_publisher.dir/src/cpp_publisher.cpp.o[0m
+[5.447s] [100%] [32m[1mLinking CXX executable cpp_publisher[0m
+[5.678s] [100%] Built target cpp_publisher
+[5.702s] Invoked command in '/home/toro/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/toro/ros2_ws/build/cpp_pubsub -- -j6 -l6
+[5.730s] Invoking command in '/home/toro/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toro/ros2_ws/build/cpp_pubsub
+[5.747s] -- Install configuration: ""
+[5.747s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_publisher
+[5.750s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_publisher" to ""
+[5.751s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_subscriber
+[5.759s] -- Set non-toolchain portion of runtime path of "/home/toro/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/cpp_subscriber" to ""
+[5.759s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[5.759s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[5.759s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[5.759s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[5.759s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[5.760s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[5.760s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[5.760s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[5.760s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[5.760s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[5.761s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[5.761s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[5.761s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[5.761s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[5.761s] -- Installing: /home/toro/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[5.766s] Invoked command in '/home/toro/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/toro/ros2_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/toro/ros2_ws/build/cpp_pubsub
